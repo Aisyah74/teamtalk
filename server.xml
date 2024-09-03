@@ -178,11 +178,263 @@
             </files>
             <channelbans />
             <channel>
-                <!-- Channel path: /Room Sidoarjo Berserih 🌼/ -->
+                <!-- Channel path: /CH 302/ -->
+                <channel-id>18</channel-id>
+                <name>CH 302</name>
+                <password></password>
+                <topic></topic>
+                <diskquota>20480000</diskquota>
+                <op-password></op-password>
+                <max-users>1000</max-users>
+                <channel-type>1</channel-type>
+                <userdata>0</userdata>
+                <audio-codec>
+                    <codec-type>3</codec-type>
+                    <samplerate>48000</samplerate>
+                    <channels>1</channels>
+                    <application>2048</application>
+                    <complexity>10</complexity>
+                    <fec>true</fec>
+                    <dtx>false</dtx>
+                    <bitrate>32000</bitrate>
+                    <vbr>true</vbr>
+                    <vbr-constraint>false</vbr-constraint>
+                    <framesize>960</framesize>
+                    <fpp>1</fpp>
+                </audio-codec>
+                <audio-config>
+                    <enable-agc>true</enable-agc>
+                    <gain-level>8000</gain-level>
+                </audio-config>
+                <transmit-delay-msec>500</transmit-delay-msec>
+                <tot-voice-msec>0</tot-voice-msec>
+                <tot-mediafile-msec>0</tot-mediafile-msec>
+                <transmit-users>
+                    <channelmsg-tx-all>false</channelmsg-tx-all>
+                    <voice-tx-all>false</voice-tx-all>
+                    <videocapture-tx-all>false</videocapture-tx-all>
+                    <mediafile-tx-all>false</mediafile-tx-all>
+                    <desktopshare-tx-all>false</desktopshare-tx-all>
+                </transmit-users>
+                <files />
+                <channelbans />
+            </channel>
+            <channel>
+                <!-- Channel path: /CH 300/ -->
+                <channel-id>17</channel-id>
+                <name>CH 300</name>
+                <password></password>
+                <topic></topic>
+                <diskquota>20480000</diskquota>
+                <op-password></op-password>
+                <max-users>1000</max-users>
+                <channel-type>1</channel-type>
+                <userdata>0</userdata>
+                <audio-codec>
+                    <codec-type>3</codec-type>
+                    <samplerate>48000</samplerate>
+                    <channels>1</channels>
+                    <application>2048</application>
+                    <complexity>10</complexity>
+                    <fec>true</fec>
+                    <dtx>false</dtx>
+                    <bitrate>32000</bitrate>
+                    <vbr>true</vbr>
+                    <vbr-constraint>false</vbr-constraint>
+                    <framesize>960</framesize>
+                    <fpp>1</fpp>
+                </audio-codec>
+                <audio-config>
+                    <enable-agc>true</enable-agc>
+                    <gain-level>8000</gain-level>
+                </audio-config>
+                <transmit-delay-msec>500</transmit-delay-msec>
+                <tot-voice-msec>0</tot-voice-msec>
+                <tot-mediafile-msec>0</tot-mediafile-msec>
+                <transmit-users>
+                    <channelmsg-tx-all>false</channelmsg-tx-all>
+                    <voice-tx-all>false</voice-tx-all>
+                    <videocapture-tx-all>false</videocapture-tx-all>
+                    <mediafile-tx-all>false</mediafile-tx-all>
+                    <desktopshare-tx-all>false</desktopshare-tx-all>
+                </transmit-users>
+                <files />
+                <channelbans />
+            </channel>
+            <channel>
+                <!-- Channel path: /CH 301/ -->
+                <channel-id>16</channel-id>
+                <name>CH 301</name>
+                <password></password>
+                <topic></topic>
+                <diskquota>20480000</diskquota>
+                <op-password></op-password>
+                <max-users>1000</max-users>
+                <channel-type>1</channel-type>
+                <userdata>0</userdata>
+                <audio-codec>
+                    <codec-type>3</codec-type>
+                    <samplerate>48000</samplerate>
+                    <channels>1</channels>
+                    <application>2048</application>
+                    <complexity>10</complexity>
+                    <fec>true</fec>
+                    <dtx>false</dtx>
+                    <bitrate>32000</bitrate>
+                    <vbr>true</vbr>
+                    <vbr-constraint>false</vbr-constraint>
+                    <framesize>960</framesize>
+                    <fpp>1</fpp>
+                </audio-codec>
+                <audio-config>
+                    <enable-agc>true</enable-agc>
+                    <gain-level>8000</gain-level>
+                </audio-config>
+                <transmit-delay-msec>500</transmit-delay-msec>
+                <tot-voice-msec>0</tot-voice-msec>
+                <tot-mediafile-msec>0</tot-mediafile-msec>
+                <transmit-users>
+                    <channelmsg-tx-all>false</channelmsg-tx-all>
+                    <voice-tx-all>false</voice-tx-all>
+                    <videocapture-tx-all>false</videocapture-tx-all>
+                    <mediafile-tx-all>false</mediafile-tx-all>
+                    <desktopshare-tx-all>false</desktopshare-tx-all>
+                </transmit-users>
+                <files />
+                <channelbans />
+            </channel>
+            <channel>
+                <!-- Channel path: /CH 298/ -->
+                <channel-id>15</channel-id>
+                <name>CH 298</name>
+                <password></password>
+                <topic></topic>
+                <diskquota>20480000</diskquota>
+                <op-password></op-password>
+                <max-users>1000</max-users>
+                <channel-type>1</channel-type>
+                <userdata>0</userdata>
+                <audio-codec>
+                    <codec-type>3</codec-type>
+                    <samplerate>48000</samplerate>
+                    <channels>1</channels>
+                    <application>2048</application>
+                    <complexity>10</complexity>
+                    <fec>true</fec>
+                    <dtx>false</dtx>
+                    <bitrate>32000</bitrate>
+                    <vbr>true</vbr>
+                    <vbr-constraint>false</vbr-constraint>
+                    <framesize>960</framesize>
+                    <fpp>1</fpp>
+                </audio-codec>
+                <audio-config>
+                    <enable-agc>true</enable-agc>
+                    <gain-level>8000</gain-level>
+                </audio-config>
+                <transmit-delay-msec>500</transmit-delay-msec>
+                <tot-voice-msec>0</tot-voice-msec>
+                <tot-mediafile-msec>0</tot-mediafile-msec>
+                <transmit-users>
+                    <channelmsg-tx-all>false</channelmsg-tx-all>
+                    <voice-tx-all>false</voice-tx-all>
+                    <videocapture-tx-all>false</videocapture-tx-all>
+                    <mediafile-tx-all>false</mediafile-tx-all>
+                    <desktopshare-tx-all>false</desktopshare-tx-all>
+                </transmit-users>
+                <files />
+                <channelbans />
+            </channel>
+            <channel>
+                <!-- Channel path: /CH 297/ -->
+                <channel-id>14</channel-id>
+                <name>CH 297</name>
+                <password></password>
+                <topic></topic>
+                <diskquota>20480000</diskquota>
+                <op-password></op-password>
+                <max-users>1000</max-users>
+                <channel-type>1</channel-type>
+                <userdata>0</userdata>
+                <audio-codec>
+                    <codec-type>3</codec-type>
+                    <samplerate>48000</samplerate>
+                    <channels>1</channels>
+                    <application>2048</application>
+                    <complexity>10</complexity>
+                    <fec>true</fec>
+                    <dtx>false</dtx>
+                    <bitrate>32000</bitrate>
+                    <vbr>true</vbr>
+                    <vbr-constraint>false</vbr-constraint>
+                    <framesize>960</framesize>
+                    <fpp>1</fpp>
+                </audio-codec>
+                <audio-config>
+                    <enable-agc>true</enable-agc>
+                    <gain-level>8000</gain-level>
+                </audio-config>
+                <transmit-delay-msec>500</transmit-delay-msec>
+                <tot-voice-msec>0</tot-voice-msec>
+                <tot-mediafile-msec>0</tot-mediafile-msec>
+                <transmit-users>
+                    <channelmsg-tx-all>false</channelmsg-tx-all>
+                    <voice-tx-all>false</voice-tx-all>
+                    <videocapture-tx-all>false</videocapture-tx-all>
+                    <mediafile-tx-all>false</mediafile-tx-all>
+                    <desktopshare-tx-all>false</desktopshare-tx-all>
+                </transmit-users>
+                <files />
+                <channelbans />
+            </channel>
+            <channel>
+                <!-- Channel path: /CH 296/ -->
+                <channel-id>13</channel-id>
+                <name>CH 296</name>
+                <password></password>
+                <topic></topic>
+                <diskquota>20480000</diskquota>
+                <op-password></op-password>
+                <max-users>1000</max-users>
+                <channel-type>1</channel-type>
+                <userdata>0</userdata>
+                <audio-codec>
+                    <codec-type>3</codec-type>
+                    <samplerate>48000</samplerate>
+                    <channels>1</channels>
+                    <application>2048</application>
+                    <complexity>10</complexity>
+                    <fec>true</fec>
+                    <dtx>false</dtx>
+                    <bitrate>32000</bitrate>
+                    <vbr>true</vbr>
+                    <vbr-constraint>false</vbr-constraint>
+                    <framesize>960</framesize>
+                    <fpp>1</fpp>
+                </audio-codec>
+                <audio-config>
+                    <enable-agc>true</enable-agc>
+                    <gain-level>8000</gain-level>
+                </audio-config>
+                <transmit-delay-msec>500</transmit-delay-msec>
+                <tot-voice-msec>0</tot-voice-msec>
+                <tot-mediafile-msec>0</tot-mediafile-msec>
+                <transmit-users>
+                    <channelmsg-tx-all>false</channelmsg-tx-all>
+                    <voice-tx-all>false</voice-tx-all>
+                    <videocapture-tx-all>false</videocapture-tx-all>
+                    <mediafile-tx-all>false</mediafile-tx-all>
+                    <desktopshare-tx-all>false</desktopshare-tx-all>
+                </transmit-users>
+                <files />
+                <channelbans />
+            </channel>
+            <channel>
+                <!-- Channel path: /CH 295/ -->
                 <channel-id>12</channel-id>
-                <name>Room Sidoarjo Berserih 🌼</name>
+                <name>CH 295</name>
                 <password></password>
-                <topic>seduluran selawase</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -220,11 +472,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /Ruang Santai/ -->
+                <!-- Channel path: /CH 294/ -->
                 <channel-id>11</channel-id>
-                <name>Ruang Santai</name>
+                <name>CH 294</name>
                 <password></password>
-                <topic>tempat sering bersama</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -262,11 +514,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /Tempat Ibadah 🕌/ -->
+                <!-- Channel path: /CH 293/ -->
                 <channel-id>10</channel-id>
-                <name>Tempat Ibadah 🕌</name>
+                <name>CH 293</name>
                 <password></password>
-                <topic>bersujud kepada allah 🤲🏻</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -304,11 +556,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /Tenda Biru 💙/ -->
+                <!-- Channel path: /CH 292/ -->
                 <channel-id>9</channel-id>
-                <name>Tenda Biru 💙</name>
+                <name>CH 292</name>
                 <password></password>
-                <topic>berbincang guyonan</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -346,11 +598,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /RUANG OPERATOR/ -->
+                <!-- Channel path: /CH 291/ -->
                 <channel-id>8</channel-id>
-                <name>RUANG OPERATOR</name>
-                <password>2024</password>
-                <topic>selalu monitor</topic>
+                <name>CH 291</name>
+                <password></password>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -388,11 +640,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /Tempat Istirahat/ -->
+                <!-- Channel path: /CH 290/ -->
                 <channel-id>7</channel-id>
-                <name>Tempat Istirahat</name>
+                <name>CH 290</name>
                 <password></password>
-                <topic>leye leye 💤</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -430,11 +682,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /Karaoke Bareng 🎤🎶/ -->
+                <!-- Channel path: /CH 289/ -->
                 <channel-id>6</channel-id>
-                <name>Karaoke Bareng 🎤🎶</name>
+                <name>CH 289</name>
                 <password></password>
-                <topic>keluwarga ( R K A R )</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -472,11 +724,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /Teras || R K A R || 💢/ -->
+                <!-- Channel path: /CH 288/ -->
                 <channel-id>5</channel-id>
-                <name>Teras || R K A R || 💢</name>
+                <name>CH 288</name>
                 <password></password>
-                <topic>ngobrol bareng yok...</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -514,15 +766,15 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /CH OPERATOR/ -->
+                <!-- Channel path: /CH 287/ -->
                 <channel-id>4</channel-id>
-                <name>CH OPERATOR</name>
+                <name>CH 287</name>
                 <password></password>
-                <topic>hanya operator ch</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
-                <op-password>45</op-password>
+                <op-password></op-password>
                 <max-users>1000</max-users>
-                <channel-type>7</channel-type>
+                <channel-type>1</channel-type>
                 <userdata>0</userdata>
                 <audio-codec>
                     <codec-type>3</codec-type>
@@ -556,11 +808,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /🔴 Cek Sound 🔊/ -->
+                <!-- Channel path: /CH 286/ -->
                 <channel-id>3</channel-id>
-                <name>🔴 Cek Sound 🔊</name>
+                <name>CH 286</name>
                 <password></password>
-                <topic>stereo channel</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
@@ -582,7 +834,7 @@
                 </audio-codec>
                 <audio-config>
                     <enable-agc>true</enable-agc>
-                    <gain-level>19000</gain-level>
+                    <gain-level>8000</gain-level>
                 </audio-config>
                 <transmit-delay-msec>500</transmit-delay-msec>
                 <tot-voice-msec>0</tot-voice-msec>
@@ -598,11 +850,11 @@
                 <channelbans />
             </channel>
             <channel>
-                <!-- Channel path: /---Test Server R K A R---/ -->
+                <!-- Channel path: /CH 285/ -->
                 <channel-id>2</channel-id>
-                <name>---Test Server R K A R---</name>
+                <name>CH 285</name>
                 <password></password>
-                <topic>uji coba server</topic>
+                <topic></topic>
                 <diskquota>20480000</diskquota>
                 <op-password></op-password>
                 <max-users>1000</max-users>
