@@ -1,19 +1,13 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE teamtalk>
-<teamtalk version="5.0">
- <host>
-  <name>rkar</name>
-  <address>146.190.87.44</address>
-  <tcpport>10333</tcpport>
-  <udpport>10333</udpport>
-  <encrypted>false</encrypted>
-  <auth>
-   <username>ayorek</username>
-   <password>ayorek</password>
-   <nickname>paiman</nickname>
-  </auth>
-  <clientsetup>
-   <nickname>paiman</nickname>
-  </clientsetup>
- </host>
-</teamtalk>
+<servers>
+
+
+
+
+<server name="SAHABAT NUSANTARA" ca="0" continent_code="AS" country="klik masuk" country_code="ID" ip="ayorek2.onthewifi.com" port="64738" region="ID" url="" token=""/>
+
+
+
+
+
+
+</servers>
